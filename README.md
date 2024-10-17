@@ -1,7 +1,9 @@
 # Comprehensive-HR-Analysis-and-Insights-Attrition-Performance-and-Employee-Satisfaction
 ---
 ### 1. Executive Summary
-This report provides insights from the HR analysis conducted using Power BI, focusing on key areas such as employee attrition, department performance, job satisfaction, and income trends. The dataset consists of 1,470 employees, with an attrition rate of 16.12% and 1,233 active employees. The analysis includes data visualized through clustered column charts, doughnut charts, area charts, and bar charts to highlight the relationships between various factors.
+This report provides insights from the HR analysis conducted using Power BI, focusing on key areas such as employee attrition, department performance, job satisfaction, and income trends. The dataset consists of 1,470 employees, with an attrition rate of 16.12% and 1,233 active employees. The analysis includes data visualized through clustered column charts, doughnut charts, area charts, and bar charts to highlight the relationships between various factors.]
+
+![](hud-elements-search-human-resources-260nw-1007703703)
 ---
 ### 2. Key Findings
 - Total Employees: 1,470
