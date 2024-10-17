@@ -53,3 +53,6 @@ Use the gender and marital status slicers to develop personalized strategies to 
 
 ### 5. Conclusion
 The HR analysis has provided valuable insights into the company’s workforce. By focusing on the identified areas, particularly attrition, job satisfaction, and income disparities, the company can take actionable steps to improve employee retention, morale, and overall productivity.
+
+See the dashboard below
+![](HR ANALYTICS.png)
