@@ -56,4 +56,4 @@ The HR analysis has provided valuable insights into the company’s workforce. B
 
 See the dashboard below
 
-![](HR ANALYTIC.png)
+![](HRANALYTIC.png)
